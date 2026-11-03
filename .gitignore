@@ -1,0 +1,18 @@
+# The survey workbook contains individual-level health information. Never commit it.
+data/
+*.xlsx
+*.xls
+*.sav
+*.docx
+*.pptx
+*.pdf
+!docs/project_brief.pdf
+synthetic_results/
+__pycache__/
+.venv/
+.env
+.DS_Store
+
+.Rhistory
+.RData
+.Ruserdata

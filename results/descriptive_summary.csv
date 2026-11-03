@@ -1,0 +1,20 @@
+measure,value
+respondents,436.0
+cycle_or_bleeding_abnormality: positive,288.0
+cycle_or_bleeding_abnormality: negative,148.0
+cycle_or_bleeding_abnormality: percent positive,66.1
+dysmenorrhea: positive,269.0
+dysmenorrhea: negative,167.0
+dysmenorrhea: percent positive,61.7
+four_criteria_composite: positive,384.0
+four_criteria_composite: negative,52.0
+four_criteria_composite: percent positive,88.1
+age: mean,20.59
+age: sd,2.12
+age: missing,1.0
+bmi: mean,20.79
+bmi: sd,2.64
+bmi: missing,0.0
+menarche_age: mean,3.02
+menarche_age: sd,0.46
+menarche_age: missing,0.0

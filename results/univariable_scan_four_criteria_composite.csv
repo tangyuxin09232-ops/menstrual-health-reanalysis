@@ -1,0 +1,71 @@
+n_tests_in_family,variable,n_levels,test,p_value,min_expected_cell,p_bh_fdr
+70,x67,2.0,Pearson chi-square,6.830373458240161e-05,17.17,0.004781261420768112
+70,x43,2.0,Pearson chi-square,0.010617472920983119,18.25,0.37161155223440917
+70,x32,5.0,Monte Carlo chi-square (10000 resamples),0.051894810518948106,0.36,1.0
+70,x17,2.0,Pearson chi-square,0.07560304872512047,22.54,1.0
+70,x44,2.0,Pearson chi-square,0.1650465145984748,24.81,1.0
+70,x30,2.0,Pearson chi-square,0.2323284464167647,13.0,1.0
+70,grade,6.0,Monte Carlo chi-square (10000 resamples),0.28557144285571445,2.62,1.0
+70,x15,5.0,Monte Carlo chi-square (10000 resamples),0.29217078292170784,0.24,1.0
+70,x48,5.0,Monte Carlo chi-square (10000 resamples),0.32526747325267474,3.34,1.0
+70,x16,2.0,Pearson chi-square,0.3351321613543987,23.26,1.0
+70,x24,3.0,Monte Carlo chi-square (10000 resamples),0.35896410358964104,2.27,1.0
+70,x19,2.0,Pearson chi-square,0.3637139631812577,24.57,1.0
+70,x56,2.0,Pearson chi-square,0.3745491852542915,14.79,1.0
+70,x31,2.0,Fisher exact,0.3754354406244145,1.31,1.0
+70,x54,2.0,Fisher exact,0.39942816003601433,0.48,1.0
+70,x27,2.0,Pearson chi-square,0.4624478597432079,19.92,1.0
+70,x65,3.0,Monte Carlo chi-square (10000 resamples),0.46625337466253375,0.72,1.0
+70,x20,2.0,Fisher exact,0.49133386810513724,2.39,1.0
+70,x38,2.0,Pearson chi-square,0.4967490395832468,20.75,1.0
+70,x42,2.0,Pearson chi-square,0.5389996114301663,5.25,1.0
+70,x29,2.0,Pearson chi-square,0.5389996114301663,5.25,1.0
+70,x22,4.0,Monte Carlo chi-square (10000 resamples),0.5434456554344566,2.74,1.0
+70,x2,2.0,Fisher exact,0.5572390154508116,3.46,1.0
+70,x52,2.0,Pearson chi-square,0.5788032910869817,10.02,1.0
+70,x25,5.0,Monte Carlo chi-square (10000 resamples),0.5822417758224178,0.72,1.0
+70,x47,5.0,Pearson chi-square,0.5961147926481949,5.25,1.0
+70,x41,2.0,Fisher exact,0.6032139344264495,4.65,1.0
+70,x50,2.0,Fisher exact,0.6075934564812873,1.07,1.0
+70,x21,5.0,Monte Carlo chi-square (10000 resamples),0.6203379662033797,0.48,1.0
+70,x33,5.0,Monte Carlo chi-square (10000 resamples),0.6488351164883511,0.6,1.0
+70,bmi,,Mann-Whitney U,0.6626528394484015,,1.0
+70,x28,2.0,Pearson chi-square,0.666574582330383,19.92,1.0
+70,x8,2.0,Pearson chi-square,0.6730478384131773,24.93,1.0
+70,x49,5.0,Monte Carlo chi-square (10000 resamples),0.6731326867313269,0.36,1.0
+70,x3,2.0,Pearson chi-square,0.6740719035251401,11.69,1.0
+70,x61,3.0,Monte Carlo chi-square (10000 resamples),0.6748325167483251,0.83,1.0
+70,age,,Mann-Whitney U,0.6886459627439314,,1.0
+70,major,6.0,Monte Carlo chi-square (10000 resamples),0.690930906909309,0.83,1.0
+70,x51,2.0,Pearson chi-square,0.7104161887489382,6.32,1.0
+70,x64,5.0,Monte Carlo chi-square (10000 resamples),0.7370262973702629,1.79,1.0
+70,x46,5.0,Monte Carlo chi-square (10000 resamples),0.7538246175382461,0.6,1.0
+70,x37,2.0,Pearson chi-square,0.7592231394235238,20.51,1.0
+70,x55,2.0,Fisher exact,0.7898739457381859,4.41,1.0
+70,x23,2.0,Fisher exact,0.7934054760619141,4.53,1.0
+70,ethnicity,2.0,Fisher exact,0.7975581298094125,4.65,1.0
+70,x40,2.0,Pearson chi-square,0.8476986032574851,16.1,1.0
+70,x5,2.0,Pearson chi-square,0.8738275959196649,8.11,1.0
+70,x62,4.0,Monte Carlo chi-square (10000 resamples),0.8851114888511149,4.53,1.0
+70,x7,2.0,Pearson chi-square,0.8963379995795231,22.06,1.0
+70,x14,3.0,Monte Carlo chi-square (10000 resamples),0.9314068593140686,0.95,1.0
+70,x34,2.0,Pearson chi-square,0.9377372513332928,18.25,1.0
+70,x36,2.0,Pearson chi-square,0.9503847100943252,14.31,1.0
+70,menarche_age,,Mann-Whitney U,0.9513816154708561,,1.0
+70,x4,2.0,Pearson chi-square,0.966464996109702,10.61,1.0
+70,x45,5.0,Monte Carlo chi-square (10000 resamples),0.9674032596740326,1.79,1.0
+70,x1,2.0,Pearson chi-square,0.979148332211273,21.59,1.0
+70,pad_brand,12.0,Monte Carlo chi-square (10000 resamples),0.9936006399360064,0.48,1.0
+70,x12,2.0,Pearson chi-square,1.0,23.26,1.0
+70,x11,2.0,Pearson chi-square,1.0,14.67,1.0
+70,x10,2.0,Pearson chi-square,1.0,17.77,1.0
+70,x18,2.0,Pearson chi-square,1.0,23.5,1.0
+70,x13,2.0,Fisher exact,1.0,0.24,1.0
+70,x6,2.0,Pearson chi-square,1.0,25.64,1.0
+70,x9,2.0,Fisher exact,1.0,4.29,1.0
+70,x53,2.0,Fisher exact,1.0,0.48,1.0
+70,x26,2.0,Fisher exact,1.0,4.41,1.0
+70,x35,2.0,Pearson chi-square,1.0,19.08,1.0
+70,x39,2.0,Pearson chi-square,1.0,24.09,1.0
+70,x66,3.0,Monte Carlo chi-square (10000 resamples),1.0,0.36,1.0
+70,x68,2.0,Fisher exact,1.0,4.17,1.0
